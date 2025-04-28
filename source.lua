@@ -2,7 +2,7 @@
 
 Sirius
 
-© 2024 Sirius 
+© 2025 Nightfall 
 All Rights Reserved.
 
 --]]
@@ -90,9 +90,9 @@ local oldVolume = gameSettings.MasterVolume
 -- Configurable Core Values
 local siriusValues = {
 	siriusVersion = "1.26",
-	siriusName = "Sirius",
+	siriusName = "Nightfall",
 	releaseType = "Stable",
-	siriusFolder = "Sirius",
+	siriusFolder = "Nightfall",
 	settingsFile = "settings.srs",
 	interfaceAsset = 14183548964,
 	cdn = "https://cdn.sirius.menu/SIRIUS-SCRIPT-CORE-ASSETS/",
